@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/administration-dashboard-service/administration-dashboard-service.iml" filepath="$PROJECT_DIR$/administration-dashboard-service/administration-dashboard-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-repo.iml" filepath="$PROJECT_DIR$/config-repo.iml" />
     </modules>
   </component>
