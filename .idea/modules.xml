@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/administration-dashboard-service/administration-dashboard-service.iml" filepath="$PROJECT_DIR$/administration-dashboard-service/administration-dashboard-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway-server/api-gateway-server.iml" filepath="$PROJECT_DIR$/api-gateway-server/api-gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authentication-service/authentication-service.iml" filepath="$PROJECT_DIR$/authentication-service/authentication-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-repo.iml" filepath="$PROJECT_DIR$/config-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configuration-server/configuration-server.iml" filepath="$PROJECT_DIR$/configuration-server/configuration-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-dashboard-service/customer-dashboard-service.iml" filepath="$PROJECT_DIR$/customer-dashboard-service/customer-dashboard-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/discovery-server/discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kyc-verification-service/kyc-verification-service.iml" filepath="$PROJECT_DIR$/kyc-verification-service/kyc-verification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification-service/notification-service.iml" filepath="$PROJECT_DIR$/notification-service/notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-gateway-processor/payment-gateway-processor.iml" filepath="$PROJECT_DIR$/payment-gateway-processor/payment-gateway-processor.iml" />
     </modules>
   </component>
 </project>
